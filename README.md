@@ -1,2 +1,4 @@
 # codecon
-# This project contains the answers for the Bloomberg codecon. Enjoy!
+# This project contains the solutions for the Bloomberg codecon. It is always a good practice to keep up with small brain teasers. Hope you enjoy!
+# main.cpp -> solution for Expecto Palindronum challenger series.
+
